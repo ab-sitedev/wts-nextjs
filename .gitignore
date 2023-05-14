@@ -6,6 +6,9 @@
 # testing
 /coverage
 
+# metered connection
+/public/img
+
 # production
 /build
 /out
